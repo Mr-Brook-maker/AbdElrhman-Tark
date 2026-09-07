@@ -11,7 +11,7 @@
 ## 🌐 تواصل معي (Let's Connect)
 
 <p align="left"> 
-  <!-- رابط جيت هوب -->
+  <!-- رابط جيت هوب للمستخدم -->
   <a href="https://github.com" target="_blank"> 
     <img src="https://shields.io" alt="GitHub"> 
   </a> 
@@ -19,7 +19,7 @@
   <a href="https://discord.com" target="_blank"> 
     <img src="https://shields.io" alt="Discord"> 
   </a> 
-  <!-- رابط فيسبوك مجهز للتعديل -->
+  <!-- رابط فيسبوك مجهز للتعديل يدوياً -->
   <a href="https://facebook.com" target="_blank"> 
     <img src="https://shields.io" alt="Facebook"> 
   </a>
